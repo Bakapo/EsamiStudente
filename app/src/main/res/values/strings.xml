@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Esami Studente</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- LoginActivity -->
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember Login data</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_register">Register</string>
+
+    <string-array name="main_menu_labels">
+        <item>Notizie</item>
+        <item>Appelli</item>
+        <item>Docenti</item>
+        <item>Orario lezioni</item>
+        <item>Libretto</item>
+        <item>Gruppo</item>
+        <item>Segreteria</item>
+        <item>Segr. Didattica</item>
+        <item>Biblioteca</item>
+    </string-array>
+</resources>
